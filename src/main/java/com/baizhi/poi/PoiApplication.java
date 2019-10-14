@@ -12,5 +12,6 @@ public class PoiApplication {
         System.out.println("呵呵");
         System.out.println("啊啊");
         System.out.println("呃呃");
+        System.out.println("int");
     }
 }
