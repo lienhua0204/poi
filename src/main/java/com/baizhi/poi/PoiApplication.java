@@ -9,5 +9,6 @@ public class PoiApplication {
     public static void main(String[] args) {
         SpringApplication.run(PoiApplication.class, args);
         System.out.println("哈哈");
+        System.out.println("呵呵");
     }
 }
